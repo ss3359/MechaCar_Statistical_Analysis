@@ -33,4 +33,26 @@ From Figure 4, we have the variance for Lot 3 type cars is 170.28. Since this is
 
 ## T-Test on Suspension Coils
 
+Here are the results when the T-Test is applied when findin the p-values for the total cars for each lot and the respective T-Tests for the cars made for each lot 
+
+### Figure 5 (T-Test For The Cars In All Lots)
+
+<img width="516" alt="Screen Shot 2022-09-25 at 1 10 16 PM" src="https://user-images.githubusercontent.com/104328106/192161058-87b77f09-4d85-4417-a59a-759a78ef8131.png">
+
+
+### Figure 6 (T-Test For Cars In Lot 1)
+
+<img width="784" alt="Screen Shot 2022-09-25 at 1 10 35 PM" src="https://user-images.githubusercontent.com/104328106/192161065-8e576c4f-8b3d-448a-a225-10a8a1ac3958.png">
+
+
+### Figure 7 (T-Test For Cars In Lot 2)
+
+<img width="779" alt="Screen Shot 2022-09-25 at 1 10 53 PM" src="https://user-images.githubusercontent.com/104328106/192161081-926f82e4-ef88-4d6d-b868-9e81698b598e.png">
+
+
+### Figure 8 (T-Test For Cars In Lot 3)
+
+<img width="777" alt="Screen Shot 2022-09-25 at 1 11 11 PM" src="https://user-images.githubusercontent.com/104328106/192161092-ecedbe4c-9d07-4788-9763-d9d4c7aac93a.png">
+
+
 
