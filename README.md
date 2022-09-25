@@ -15,4 +15,4 @@ Here are the results for the lienar regression for each variable with respect to
 
 
 
-According to the results, the variables that provide a non-random amount of variance to miles per gallon are the intercept, the vehicle length, anf the ground clearance. This is because their respective probabilities are extremily small. 
+According to the results, the variables that provide a non-random amount of variance to miles per gallon are the intercept, the vehicle length, anf the ground clearance. This is because their respective probabilities are extremily small. Also, from the data in Figure 2, we have an adjusted R-squared value of 0.6825 and a p-value of 5.35e-11. 
