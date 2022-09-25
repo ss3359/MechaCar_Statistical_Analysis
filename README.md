@@ -17,4 +17,20 @@ According to the results, the variables that provide a non-random amount of vari
 
 
 ## Summary Statistics on Suspension
+Here are the results for the PSI for each vehicle 
+
+### Figure 3
+
+<img width="486" alt="Screen Shot 2022-09-25 at 7 18 12 AM" src="https://user-images.githubusercontent.com/104328106/192145526-5a30992e-225e-4641-92d0-45d699e408cb.png">
+
+Here are the results for each vehicle by lot number
+
+### Figure 4
+
+<img width="671" alt="Screen Shot 2022-09-25 at 7 18 50 AM" src="https://user-images.githubusercontent.com/104328106/192145566-8615d8c8-2930-4e9d-83cd-41531e0b207d.png">
+
+From Figure 4, we have the variance for Lot 3 type cars is 170.28. Since this is a high variance than the other two lots, the current manufacturing data does not meet the design specification for each lot. However, the data does meet the design for the maufacturing lots in total since the vriance for the lots in total does not exceed 100 PSI (See Figure 3).
+
+## T-Test on Suspension Coils
+
 
