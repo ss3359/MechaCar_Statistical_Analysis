@@ -61,7 +61,7 @@ In Figure 7, the p-value is equal to 0.6072. This is above the assumed significa
 In Figure 8, the p-value is equal to 0.04168. This is below the assumed significance level of 0.05. This implies we do have sufficent evidence to reject the null hypothesis. In other words, the two means are different. 
 
 
-## MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 Observing whether or not cars made by MechaCar by PSI is one metric to determine if the cars are outperforming other cars selling in the market. In these times, people want to be cost efficent when buying a car. Therefore, the two metrics that would be of interest to a customer is the cost of the car and the maintence cost of the cars individually. 
 
 Suppose we want to test the average cost of a car. In 2022, the average cost of a car is $47,000. We want to take a reasonable amount for the sample space to apply the test. The test that best suits for this scenario is a Two Sampled T-Test. The goal is to find a statistical difference between means from two different samples taken. 
